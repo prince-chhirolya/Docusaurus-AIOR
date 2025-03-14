@@ -10,8 +10,10 @@
 
 
 ## Table of Contents
+- [Official Documentation](https://docusaurus.io/docs)
+- [Plugins & Themes](./resources.md)
 
-- [Plugins](./resources.md)
+## Templates
 
 
 
